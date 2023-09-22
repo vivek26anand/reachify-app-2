@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "[yourprojectsname]",
-    "slug": "[yourprojectsname]",
-    "scheme": "[yourprojectsname]",
+    "name": "reachify",
+    "slug": "reachify",
+    "scheme": "reachify",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,14 +18,14 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.[yourprojectsname].app"
+      "bundleIdentifier": "com.reachify.app"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.[yourprojectsname].app"
+      "package": "com.reachify.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
